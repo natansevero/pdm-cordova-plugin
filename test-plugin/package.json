@@ -1,0 +1,17 @@
+{
+  "name": "test-plugin",
+  "version": "0.0.1",
+  "description": "A cordova test plugin",
+  "cordova": {
+    "id": "test-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "natansevero",
+  "license": "MIT"
+}
