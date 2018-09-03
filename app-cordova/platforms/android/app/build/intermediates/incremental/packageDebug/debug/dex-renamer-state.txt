@@ -1,0 +1,4 @@
+#Mon Sep 03 16:10:19 BRT 2018
+base.0=/home/natan/Documents/IFPB/5-Semestre/PDM/2018-1/Atividade-Plugin-Cordova/app-cordova/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/natan/Documents/IFPB/5-Semestre/PDM/2018-1/Atividade-Plugin-Cordova/app-cordova/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
